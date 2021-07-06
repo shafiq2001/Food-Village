@@ -88,6 +88,7 @@ a {
   padding: 20px 40px;
   border-radius: 30px;
   color: #ffffff;
+  font-size: 18px;
 }
 
 /* Head section code end here */
@@ -178,9 +179,43 @@ a {
   margin: 0px;
 }
 
+/* follow code end here  */
+
+/* newsletter code start here  */
+.newsletter {
+  background-image: url(images/food/Project\ Cover4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
+  margin: 80px 7%;
+  padding: 60px 0px;
+}
+
+.newsletter h2 {
+  color: #ffffff !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.newsletter input {
+  padding: 15px 80px;
+  border-radius: 25px;
+  background-color: transparent;
+  border: 1px solid #fc6a3b;
+  margin-top: 30px;
+}
+
+.newsletter span {
+  color: #eee;
+}
+
+.newsletter button {
+  padding: 15px 40px !important;
+  border: 1px solid #fc6a3b;
+}
+
 /* footer css code start here  */
 footer {
-  margin-top: 80px;
   background-color: #000000;
   margin-bottom: -15px;
 }
