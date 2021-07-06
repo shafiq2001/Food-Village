@@ -27,6 +27,7 @@ a {
   padding: 20px 40px;
   border-radius: 30px;
   color: #ffffff;
+  font-size: 18px;
 }
 
 .heading {
@@ -39,6 +40,9 @@ a {
   text-align: center;
 }
 
+.mr-5p {
+  margin: 0 5%;
+}
 /* common Css */
 
 /* Head section code start here */
@@ -69,10 +73,6 @@ a {
   width: 100%;
 }
 
-.mr-5p {
-  margin: 0 5%;
-}
-
 .head_content {
   padding-left: 8%;
 }
@@ -82,14 +82,6 @@ a {
   font-size: 20px;
   padding-right: 10%;
   margin-bottom: 60px;
-}
-
-.btn {
-  background-image: linear-gradient(to right, #fb984c, #fe4b2f);
-  padding: 20px 40px;
-  border-radius: 30px;
-  color: #ffffff;
-  font-size: 18px;
 }
 
 /* Head section code end here */
