@@ -186,6 +186,7 @@ a {
   background-image: url(images/food/Project\ Cover4.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   border-radius: 25px;
   margin: 80px 7%;
   padding: 60px 0px;
