@@ -68,6 +68,10 @@ a {
   width: 100%;
 }
 
+.mr-5p {
+  margin: 0 5%;
+}
+
 .head_content {
   padding-left: 8%;
 }
@@ -119,10 +123,6 @@ a {
   padding-bottom: 30px;
 }
 
-.card_wraper {
-  margin: 0% 5%;
-}
-
 .card {
   padding: 20px;
   border-radius: 25px;
@@ -141,8 +141,24 @@ a {
 
 /* Recipies section code start here */
 
+/* review section code start here  */
+.review {
+  padding: 20px;
+  border-radius: 25px;
+  margin: 0 2%;
+  box-shadow: 5px 10px 15px 30px #eeeeee;
+}
+
+.review img {
+  display: block;
+  margin: 0 auto;
+  width: 10%;
+  border-radius: 50%;
+}
+
 /* footer css code start here  */
 footer {
+  margin-top: 80px;
   background-color: #000000;
   margin-bottom: -15px;
 }
@@ -159,3 +175,4 @@ footer p {
   font-size: 14px;
   padding-bottom: 100px;
 }
+/* footer css code end here  */
