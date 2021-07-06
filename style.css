@@ -158,6 +158,26 @@ a {
 
 /* review section code end here  */
 
+/* follow code start here  */
+
+.follow_sec {
+  margin: 80px 7% 0px 7%;
+  padding: 50px 0px;
+  border-radius: 25px;
+  box-shadow: 2px 4px 20px rgb(0 0 0 / 20%);
+}
+
+.follow-count {
+  width: 33%;
+  text-align: center;
+}
+
+.follow-count h2 {
+  font-size: 45px;
+  padding: 0px;
+  margin: 0px;
+}
+
 /* footer css code start here  */
 footer {
   margin-top: 80px;
